@@ -15,7 +15,7 @@ After opening XAMPP server, click on *"Start"* next to Apache and also the *"Sta
 
 **Step 4:** Now you just have to opn a new tab in your browser and then type *"http://localhost/insta/user_login.php"*. And booom you are all done, now you just have to login and use it in your own way.
 
-**This section is just for the sake of knoweledge. If you directly want to dive into the webapp you are free to do that. **
+**This section is just for the sake of knoweledge. If you directly want to dive into the webapp you are free to do that.**
 
 **What is XAMPP server????**
 
